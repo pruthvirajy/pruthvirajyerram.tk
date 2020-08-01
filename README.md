@@ -1,7 +1,6 @@
-[![Validated HTML5 and CSS](https://github.com/amardeshbd/hossainkhan.com/workflows/Validate/badge.svg)](https://github.com/amardeshbd/hossainkhan.com/actions)
 
-# hossainkhan.com
-Static site for [hossainkhan.com](http://hossainkhan.com/)
+# pruthvirajyerram.tk
+Static site for [pruthvirajyerram.tk](http://pruthvirajyerram.tk/)
 
 ## Site Theme Credits
 Xiaoying Riley at 3rd Wave Media (http://themes.3rdwavemedia.com/)
